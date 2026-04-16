@@ -8,3 +8,4 @@ export const getEvenQuestion = () => {
 };
 
 export const evenRule = 'Answer "yes" if the number is even, otherwise answer "no".';
+
