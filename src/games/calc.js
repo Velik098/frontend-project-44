@@ -13,11 +13,11 @@ const calculate = (a, b, op) => {
     default:
       return null
   }
-};
+}
 
 export const getCalcQuestion = () => {
-  const a = getRandom();
-  const b = getRandom();
+  const a = getRandom()
+  const b = getRandom()
   const op = operators[Math.floor(Math.random() * operators.length)]
 
   const question = `${a} ${op} ${b}`
@@ -26,4 +26,4 @@ export const getCalcQuestion = () => {
   return { question, answer }
 }
 
-export const calcRule = 'What is the result of the expression?';
+export const calcRule = 'What is the result of the expression?'
