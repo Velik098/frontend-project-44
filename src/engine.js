@@ -11,12 +11,12 @@ export const runGame = (getQuestion, rule, name) => {
 
     if (userAnswer !== String(answer)) {
       console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${answer}'.`);
-      console.log('Let\'s try again!');
+      console.log(`Let's try again, ${name}!`);
       return;
     }
 
     console.log('Correct!');
   }
 
-    console.log(`Congratulations, ${name}!`);
+  console.log(`Congratulations, ${name}!`);
 };
