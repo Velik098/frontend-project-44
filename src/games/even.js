@@ -1,4 +1,4 @@
-const isEven = (num) => num % 2 === 0
+const isEven = num => num % 2 === 0
 
 export const getEvenQuestion = () => {
   const question = Math.floor(Math.random() * 100)

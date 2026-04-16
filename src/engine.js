@@ -24,4 +24,4 @@ export const runGame = (getQuestion, rule) => {
   }
 
   console.log(`Congratulations, ${name}!`)
-};
+}

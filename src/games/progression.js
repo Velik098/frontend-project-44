@@ -28,6 +28,4 @@ export const getProgressionQuestion = () => {
   return { question, answer }
 }
 
-export const progressionRule
-  = 'What number is missing in the progression?'
-  
+export const progressionRule = 'What number is missing in the progression?'
