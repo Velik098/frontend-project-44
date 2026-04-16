@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
 
-import { runGame } from '../src/engine.js';
-import { getPrimeQuestion, primeRule } from '../src/games/prime.js';
+import { runGame } from '../src/engine.js'
+import { getPrimeQuestion, primeRule } from '../src/games/prime.js'
 
 
 
