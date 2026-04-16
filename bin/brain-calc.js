@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import { startCli } from '../src/cli.js';
 import { runGame } from '../src/engine.js';
 import { getCalcQuestion, calcRule } from '../src/games/calc.js';
