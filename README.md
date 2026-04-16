@@ -19,3 +19,4 @@ https://asciinema.org/a/ZocYXGd3HhvoCau6
 
 9. Игра "Простое ли число?"
 
+https://asciinema.org/a/xuANGlUbUYOX3K2Z
